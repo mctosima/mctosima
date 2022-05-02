@@ -1,7 +1,7 @@
 Hi 👋 My name is Martin
 =======================
 
-Biomedical and Computer Vision Researcher
+Faculty Member at ITERA & Ph.D. Student at NTUST
 -----------------------------------------
 
 Dedicating my life to live in the world of technology as a researcher and academician. Having an interest in the field of human related technology, especially in healthcare domain
