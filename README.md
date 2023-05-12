@@ -8,7 +8,6 @@ Dedicating my life to live in the world of technology as a researcher and academ
 
 * 🌍  I'm based in Taipei City, Taiwan
 * ✉️  You can contact me at [martin.manullang@ieee.org](mailto:martin.manullang@ieee.org)
-* 🧠  I'm learning PyTorch Lightning
 * 🤝  I'm open to collaborating on Non-contact physiological measurement project
 
 <a href="https://www.twitter.com/mctosima_" target="_blank" rel="noreferrer"><img
