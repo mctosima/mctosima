@@ -6,9 +6,9 @@ Computer Vision Researcher & Tech-savvy
 
 Dedicating my life to live in the world of technology as a researcher and academician. Having an interest in the field of human related technology, especially in healthcare domain
 
-* 🌍  I'm based in Taipei City, Taiwan
-* ✉️  You can contact me at [martin.manullang@ieee.org](mailto:martin.manullang@ieee.org)
-* 🤝  I'm open to collaborating on Non-contact physiological measurement project
+* 🌍  I'm based in South Lampung, Indonesia
+* ✉️  You can contact me at [martin.manullang@if.itera.ac.id](martin.manullang@if.itera.ac.id)
+* 🤝  I'm open to collaborating on research project
 
 <a href="https://www.twitter.com/mctosima_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mctosima_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
