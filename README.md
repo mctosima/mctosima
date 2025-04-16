@@ -1,7 +1,7 @@
 Hi 👋 My name is Martin
 =======================
 
-Faculty Member at ITERA & Ph.D. Student at NTUST
+Computer Vision Researcher & Tech-savvy
 -----------------------------------------
 
 Dedicating my life to live in the world of technology as a researcher and academician. Having an interest in the field of human related technology, especially in healthcare domain
@@ -13,12 +13,6 @@ Dedicating my life to live in the world of technology as a researcher and academ
 <a href="https://www.twitter.com/mctosima_" target="_blank" rel="noreferrer"><img
 src="https://img.shields.io/twitter/follow/mctosima_?logo=twitter&style=for-the-badge&color=0891b2&labelColor=1c1917"
 /></a>
-
-# Check Out This Repo
-
-> [Pengantar DL Pytorch](https://github.com/mctosima/pengantarDLpytorch): Kumpulan bahan belajar Deep Learning dengan PyTorch
-
-<br>
 
 ### Socials
 
